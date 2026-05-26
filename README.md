@@ -1,4 +1,5 @@
-<h1 align="center"> Global Solution - Monitoramento de Atividade Vulcânica via Satélite </h1>
+<h1 align="center"> Global Solution </h1>
+<p align="center"> Monitoramento de Atividade Vulcânica via Satélite </p>
 
 <br>
 
