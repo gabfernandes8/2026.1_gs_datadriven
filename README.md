@@ -9,11 +9,14 @@
 <br>
 
 ## 🤔 sobre o projeto
-Este sistema em Python foi desenvolvido como parte da avaliação Global Solution do 1º semestre de 2026, para a disciplina de Data Driven Application & Data Science. 
-O projeto simula um centro de controle que processa dados de sensores orbitais para monitorar vulcões ativos, permitindo o registro de erupções e emissões de gases em escala global.  A aplicação foca em transformar métricas brutas de sensores infravermelhos e térmicos em relatórios estratégicos para segurança civil e monitoramento geológico.
+Este sistema em Python foi criado como parte da avaliação Global Solution do primeiro semestre de 2026, para a disciplina de Data Driven Application e Data Science. O projeto simula um centro de controle que processa dados de sensores orbitais para monitorar vulcões ativos. Ele permite registrar erupções e emissões de gases em escala global. A aplicação se concentra em transformar medições brutas de sensores infravermelhos e térmicos em relatórios úteis para segurança civil e monitoramento geológico.
+<br>
 <br>
 
+
 ## 💻 funcionalidades
+
+
 
 <div>
 
