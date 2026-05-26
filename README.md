@@ -1,5 +1,4 @@
-<h1 align="center"> Global Solution - Data Driven </h1>
-<h2 align="center"> Monitoramento de Atividade Vulcânica via Satélite </h2>
+<h1 align="center"> Global Solution - Monitoramento de Atividade Vulcânica via Satélite </h1>
 
 <br>
 
