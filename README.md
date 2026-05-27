@@ -47,7 +47,7 @@ Este sistema em Python foi criado como parte da avaliação Global Solution do p
       <a href="https://github.com/gabfernandes8">
         <img src="https://avatars.githubusercontent.com/gabfernandes8" width="100px;" alt="Foto de Gabriela Fernandes no GitHub"/><br>
         <sub>
-          <b>Gabriela Fernandes</b>
+          <b>Gabriela Fernandes - RM568972</b>
         </sub>
       </a>
     </td>
@@ -55,7 +55,7 @@ Este sistema em Python foi criado como parte da avaliação Global Solution do p
       <a href="https://github.com/furiatee">
         <img src="https://avatars.githubusercontent.com/furiatee" width="100px;" alt="Foto de Júlia Furiate no GitHub"/><br>
         <sub>
-          <b>Júlia Furiate</b>
+          <b>Júlia Furiate - RM570547</b>
         </sub>
       </a>
     </td>
@@ -63,7 +63,7 @@ Este sistema em Python foi criado como parte da avaliação Global Solution do p
       <a href="https://github.com/viliaaivil">
         <img src="https://avatars.githubusercontent.com/viliaaivil" width="100px;" alt="Foto de Livia Santos no GitHub"/><br>
         <sub>
-          <b>Lívia Santos</b>
+          <b>Lívia Santos - RM573963</b>
         </sub>
       </a>
     </td>
