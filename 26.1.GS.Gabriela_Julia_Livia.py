@@ -1,7 +1,9 @@
 # ========================================
 # SISTEMA DE ANÁLISE DE ATIVIDADE VULCÂNICA
 # ========================================
-
+#Gabriela Cavalcanti -568972
+#Júlia Furiate -570547
+#Lívia Santos - 573963
 # Listas para armazenar os dados
 
 titulo="#### Monitoramento de Atividade Vulcânica via Satélite ####"
